@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to k8s-at-home
 
-You can use the [editor on GitHub](https://github.com/k8s-at-home/k8s-at-home.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the landing page for the k8s-at-home community! See below for a few helpful links.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Discord Chat](https://discord.gg/Yv2gzFy)
+[Billimek Charts](https://github.com/billimek/billimek-charts)
 
-### Markdown
+### User Repositories
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+See below for some examples of the "gitops" model for deployment of K8S services via Flux
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/k8s-at-home/k8s-at-home.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Billimek](https://github.com/billimek/k8s-gitops)
+[onedr0p](https://github.com/onedr0p/k3s-gitops)
+[carpenike](https://github.com/carpenike/k8s-gitops)
