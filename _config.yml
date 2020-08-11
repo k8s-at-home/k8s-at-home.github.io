@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 title: K8s at Home
 description: Community landing page for typical home based services deployed on Kubernetes
 logo: https://avatars1.githubusercontent.com/u/61287648?s=200&v=4

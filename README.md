@@ -16,7 +16,7 @@ See below for some examples of the "gitops" model for deployment of K8S services
 
 [carpenike](https://github.com/carpenike/k8s-gitops) 
 
-[xUnholy]https://github.com/raspbernetes/k8s-gitops/) 
+[xUnholy](https://github.com/raspbernetes/k8s-gitops/) 
 
 ### See Also!
 
