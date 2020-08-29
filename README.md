@@ -4,7 +4,7 @@ This is the landing page for the k8s-at-home community! See below for a few help
 
 [Discord Chat](https://discord.gg/Yv2gzFy) 
 
-[Billimek Charts](https://github.com/billimek/billimek-charts)
+[k8s@Home Charts](https://github.com/k8s-at-home/charts)
 
 ### User Repositories
 
