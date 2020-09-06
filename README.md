@@ -20,6 +20,8 @@ See below for some examples of the "gitops" model for deployment of K8S services
 
 - [bjw-s](https://github.com/bjw-s/k8s-gitops/) 
 
+- [blackjid](https://github.com/blackjid/k8s-gitops/) 
+
 ### See Also!
 
 Our friends at [Raspernetes](https://raspbernetes.github.io/) are doing a great job enabling the usage of SBC devices with K8s!
