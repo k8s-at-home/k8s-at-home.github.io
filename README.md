@@ -22,6 +22,10 @@ See below for some examples of the "gitops" model for deployment of K8S services
 
 - [blackjid](https://github.com/blackjid/k8s-gitops/) 
 
+See below for some examples of the "gitops" model for deployment of k8s services via ArgoCD
+
+- [DirtyCajunRice](https://github.com/DirtyCajunRice/GitOps-Argo-CD)
+
 ### See Also!
 
 Our friends at [Raspernetes](https://raspbernetes.github.io/) are doing a great job enabling the usage of SBC devices with K8s!
