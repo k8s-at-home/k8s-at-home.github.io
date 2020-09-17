@@ -8,7 +8,7 @@ This is the landing page for the k8s-at-home community! See below for a few help
 
 ### User Repositories
 
-See below for some examples of the "gitops" model for deployment of K8S services via Flux
+See below for some examples of the "gitops" model for deployment of K8S services via [Flux](https://fluxcd.io/)
 
 - [Billimek](https://github.com/billimek/k8s-gitops)
 
@@ -22,7 +22,7 @@ See below for some examples of the "gitops" model for deployment of K8S services
 
 - [blackjid](https://github.com/blackjid/k8s-gitops/) 
 
-See below for some examples of the "gitops" model for deployment of k8s services via ArgoCD
+See below for some examples of the "gitops" model for deployment of k8s services via [ArgoCD](https://argoproj.github.io/argo-cd/)
 
 - [DirtyCajunRice](https://github.com/DirtyCajunRice/GitOps-Argo-CD)
 
