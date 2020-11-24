@@ -6,7 +6,7 @@ This is the landing page for the k8s-at-home community! See below for a few help
 
 [k8s@home Charts](https://github.com/k8s-at-home/charts)
 
-[Sample User Repositories](https://github.com/k8s-at-home/awesome-home-kubernetes)
+[Community Member Repositories](https://github.com/k8s-at-home/awesome-home-kubernetes)
 
 ### See Also!
 
