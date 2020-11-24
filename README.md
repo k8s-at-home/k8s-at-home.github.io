@@ -2,7 +2,7 @@
 
 This is the landing page for the k8s-at-home community! See below for a few helpful links.
 
-<h3>Come Chat!</h3>
+### Come Chat!
 <a href="https://discord.gg/Yv2gzFy"><img src="https://discordapp.com/api/guilds/673534664354430999/widget.png?style=banner2">
 
 [k8s@home Charts](https://github.com/k8s-at-home/charts)
