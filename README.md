@@ -29,3 +29,7 @@ See below for some examples of the "gitops" model for deployment of k8s services
 ### See Also!
 
 Our friends at [Raspernetes](https://raspbernetes.github.io/) are doing a great job enabling the usage of SBC devices with K8s!
+
+### Come Chat!
+
+<iframe src="https://discord.com/widget?id=673534664354430999&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
